@@ -1,0 +1,57 @@
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\obj\Debug\Restaurant Management System MVc.csprojResolveAssemblyReference.cache
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\ApplicationInsights.config
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\roslyn\csc.exe
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\roslyn\System.Collections.Immutable.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\roslyn\vbc.exe
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\roslyn\VBCSCompiler.exe
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\roslyn\VBCSCompiler.exe.config
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\Restaurant Management System MVc.dll.config
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\Restaurant Management System MVc.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\Restaurant Management System MVc.pdb
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\Antlr3.Runtime.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\EntityFramework.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\EntityFramework.SqlServer.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\Microsoft.AI.Web.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\Microsoft.AI.WindowsServer.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\Microsoft.ApplicationInsights.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\Microsoft.Web.Infrastructure.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\Newtonsoft.Json.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\System.Web.Helpers.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\System.Web.Mvc.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\System.Web.Optimization.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\System.Web.Razor.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\System.Web.WebPages.Deployment.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\System.Web.WebPages.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\System.Web.WebPages.Razor.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\WebGrease.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\EntityFramework.xml
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\EntityFramework.SqlServer.xml
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\Microsoft.AI.Web.xml
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\Microsoft.AI.WindowsServer.xml
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\Microsoft.ApplicationInsights.xml
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\System.Web.Helpers.xml
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\System.Web.Mvc.xml
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\System.Web.Optimization.xml
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\System.Web.Razor.xml
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\System.Web.WebPages.xml
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\System.Web.WebPages.Deployment.xml
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\System.Web.WebPages.Razor.xml
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\Antlr3.Runtime.pdb
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\bin\Newtonsoft.Json.xml
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\obj\Debug\Restaurant Management System MVc.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\Restaurant Management System MVc\Restaurant Management System MVc\obj\Debug\Restaurant Management System MVc.pdb
